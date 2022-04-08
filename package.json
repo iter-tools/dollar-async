@@ -1,0 +1,24 @@
+{
+  "name": "@iter-tools/dollar-async",
+  "version": "0.0.0",
+  "description": "Use templates to generate equivalent sync and async code",
+  "sideEffects": false,
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iter-tools/dollar-async.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iter-tools/dollar-async/issues"
+  },
+  "homepage": "https://github.com/iter-tools/dollar-async#readme",
+  "author": "Conrad Buck <conartist6@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/template": "^7.16.7",
+    "babel-plugin-macros": "^3.1.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.6.2"
+  }
+}
